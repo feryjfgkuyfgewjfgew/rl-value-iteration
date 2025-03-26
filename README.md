@@ -91,13 +91,16 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ### Mention the optimal policy
-![image](https://github.com/user-attachments/assets/3a541512-2b01-4c3b-9255-ab37f3a019f5)
+![image](https://github.com/user-attachments/assets/00699e93-70cb-43c9-a754-b9efeacb66c8)
+
 
 ### optimal value function 
-![image](https://github.com/user-attachments/assets/156f4a9c-efc7-41c9-ac70-bc0fae8deed2)
+![image](https://github.com/user-attachments/assets/adb5832a-e77c-4120-9f0e-7a2114fa3ecd)
+
 
 ### success rate for the optimal policy.
-![image](https://github.com/user-attachments/assets/aa328a62-bee2-4df2-9a77-4b84d6508b0b)
+![image](https://github.com/user-attachments/assets/4d485e57-9997-4578-9c14-aaa85da230ee)
+
 
 
 ## RESULT:
