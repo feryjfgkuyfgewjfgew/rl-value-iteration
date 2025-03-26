@@ -67,10 +67,10 @@ The algorithm is as follows:
 ### Register Number:212223240104
 ### Include the value iteration function
 ```
-desc=['FFSH','FFFH','HFFH','FHGF']
+desc=['FFSH','FFFH','HFGH','FHFF']
 env = gym.make('FrozenLake-v1',desc=desc)
 init_state = env.reset()
-goal_state = 4
+goal_state = 10
 P = env.env.P
 ```
 ```
